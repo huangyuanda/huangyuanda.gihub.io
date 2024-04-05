@@ -2,6 +2,6 @@
     "url": "https://ton.vote",
     "name": "TON Vote",
     "iconUrl": "https://ton.vote/logo.png",
-    "termsOfUseUrl": "<terms-of-use-url>",     // 可选
-    "privacyPolicyUrl": "<privacy-policy-url>" // 可选
+    "termsOfUseUrl": "",     
+    "privacyPolicyUrl": ""
 }
